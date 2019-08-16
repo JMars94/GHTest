@@ -10,7 +10,7 @@ namespace GHTest
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("11111111");
         }
     }
 }
